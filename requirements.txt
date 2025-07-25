@@ -1,0 +1,15 @@
+# --- Core Application Libraries ---
+streamlit
+pandas
+requests
+beautifulsoup4
+PyPDF2
+
+# --- LLM API Library ---
+groq
+
+# --- NEW: Firebase Admin SDK ---
+firebase-admin
+
+# --- Required by pandas, pinned for stability ---
+numpy==1.26.4
