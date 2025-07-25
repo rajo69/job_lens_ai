@@ -4,7 +4,7 @@
 
 Job Lens AI is an end-to-end, AI-driven web application designed to help users analyze their job market fit and automate interview preparation. The tool scrapes real-time job postings, performs a deep resume-to-job-description comparison using large language models, and provides users with a comprehensive analysis package including a match score, tailored resume content, and a custom-generated cover letter.
 
-**[➡️ View the Live Application Here]([http://your-live-app-link.com](https://joblensai-1.streamlit.app/))** *(Replace with your actual deployment link)*
+**[➡️ View the Live Application Here]([http://your-live-app-link.com](https://joblensai-1.streamlit.app/)** *(Replace with your actual deployment link)*
 
 ## ✨ Key Features
 
