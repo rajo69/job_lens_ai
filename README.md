@@ -73,7 +73,8 @@ Web scraping • BeautifulSoup4 • Requests • Multithreading (ThreadPoolExecu
 
 ## Architecture
 
-<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/5bbab0f0-fc5f-4516-abd7-06a320e38717" />
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/2ae51625-19f0-4f6c-95c2-6eb92006e4b3" />
+
 
 **Key flows**
 1. User searches jobs → Streamlit scrapes LinkedIn guest pages.
