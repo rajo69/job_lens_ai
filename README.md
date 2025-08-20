@@ -73,15 +73,8 @@ Web scraping • BeautifulSoup4 • Requests • Multithreading (ThreadPoolExecu
 
 ## Architecture
 
-```mermaid
-flowchart LR
-    U[User Browser] -->|HTTP| S[Streamlit App]
-    S -->|Search pages / Job detail| L[LinkedIn Guest Endpoints]
-    S -->|LLM requests (JSON)| G[Groq API (Llama 3.1)]
-    S -->|credits / users| F[Firebase Firestore]
-    G -->|JSON result| S
-    F -->|read/write| S
-```
+<img width="1536" height="1024" alt="Architecture" src="https://github.com/user-attachments/assets/5bbab0f0-fc5f-4516-abd7-06a320e38717" />
+
 **Key flows**
 1. User searches jobs → Streamlit scrapes LinkedIn guest pages.
 2. User uploads/pastes resume → selects up to 3 jobs.
