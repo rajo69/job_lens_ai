@@ -37,7 +37,7 @@ The application operates in a simple, multi-step flow designed for an intuitive 
 1.  **Find Jobs**: The user enters a job title and location. The application scrapes LinkedIn for relevant job postings and displays them in a clean, interactive table.
 2.  **Upload Resume & Select**: The user uploads their resume (PDF or TXT) or pastes the content directly. They then select up to 3 jobs from the scraped list for analysis.
 3.  **Run AI Analysis**: The app sends the resume and each selected job description to the Groq API. The backend processes these requests in parallel. The UI updates in real-time, showing the status of each job analysis as it completes.
-4.  **Review & Download**: Completed analyses are displayed with the match score, tailored advice, and the generated LaTeX code for the updated resume and cover letter.
+4.  **Review**: Completed analyses are displayed with the match score and tailored advice.
 
 ## 🛠️ Setup and Local Installation
 
