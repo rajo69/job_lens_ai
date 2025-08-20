@@ -1,6 +1,6 @@
 # Job Lens AI - Career Co-Pilot
 
-![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg) (https://img.shields.io/badge/Streamlit-1.30%2B-red.svg) ![License](https://img.shields.io/badge/License-MIT-green.svg)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg)  ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 Job Lens AI is an end-to-end, AI-driven web application designed to help users analyze their job market fit and automate interview preparation. The tool scrapes real-time job postings, performs a deep resume-to-job-description comparison using large language models, and provides users with a comprehensive analysis package including a match score, tailored resume content, and a custom-generated cover letter.
 
