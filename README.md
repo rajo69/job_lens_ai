@@ -2,7 +2,7 @@
 
 > **End-to-end AI career platform that scrapes live job postings, performs semantic resume matching with LLMs, and generates LaTeX-ready tailored resumes and cover letters**
 
-[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge)](https://your-deployed-url)
+[![Live Demo](https://img.shields.io/badge/🚀_Live_Demo-Streamlit-FF4B4B?style=for-the-badge)](https://joblensai-1.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)](https://python.org)
 [![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)](https://streamlit.app)
 [![Groq](https://img.shields.io/badge/Groq_LLM-FF6B35?style=flat&logoColor=white)](https://groq.com)
