@@ -797,7 +797,7 @@ We welcome contributions from the community! Here's how you can help:
 
 ### **🆘 Getting Help**
 - **📖 Documentation:** Check this README and inline code comments
-- **🐛 Bug Reports:** [GitHub Issues](https://github.com/rajo69/ai-career-navigator/issues)
+- **🐛 Bug Reports:** [GitHub Issues](https://github.com/rajo69/job_lens_ai/issues)
 - **💬 Questions:** [GitHub Discussions](https://github.com/rajo69/ai-career-navigator/discussions)
 - **📧 Direct Contact:** rajarshin264@gmail.com
 
